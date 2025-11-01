@@ -1,6 +1,4 @@
-\# Credits
-
-
+# Credits
 
 AmyMialee: https://github.com/AmyMialee
 
@@ -14,17 +12,21 @@ Tac: https://www.youtube.com/@thetaciturnone
 
 Dino: https://x.com/d1n04life
 
-Lumi: https://x.com/lumineade\_
+Lumi: [https://x.com/lumineade_](https://x.com/lumineade_)
 
-Aratahin: https://bsky.app/profile/arathain.bsky.social
+Arathain: https://bsky.app/profile/arathain.bsky.social
 
+# Core Mods
 
+[Illuminated](https://modrinth.com/mod/illuminated): Provided the code to make the flashlight possible while using Immersive Portals
 
+[Figura](https://modrinth.com/mod/figura): Allowed us to make the Smilie Model function
 
+[Immersive Portals](https://modrinth.com/mod/immersiveportals): Used for the infinite staircase and the security system
 
-\# Public Mod List
+[FancyMenu](https://modrinth.com/mod/Wq5SjeWM): Used for the opening menu
 
-
+# Public Mod List
 
 Amendments: https://modrinth.com/mod/amendments
 
@@ -92,11 +94,6 @@ Supplementaries: https://modrinth.com/mod/fFEIiSDQ
 
 True Darkness Refabricated: https://modrinth.com/mod/true-darkness-refabricated
 
-
-
-\# Winsweep (me)
-
-
+# Winsweep (me)
 
 Winsweep: https://www.youtube.com/@WinSweep
-
