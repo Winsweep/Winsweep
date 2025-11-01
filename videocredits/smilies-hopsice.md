@@ -64,7 +64,7 @@ Immersive Portals: https://modrinth.com/mod/immersiveportals
 
 Konkrete: https://modrinth.com/mod/konkrete
 
-LambDynamicLights - Dynamic Lights: https://modrinth.com/mod/lambdynamiclights
+LambDynamicLights: https://modrinth.com/mod/lambdynamiclights
 
 Melody: https://modrinth.com/mod/melody
 
