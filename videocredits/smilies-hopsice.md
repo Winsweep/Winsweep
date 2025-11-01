@@ -24,7 +24,7 @@ Arathain: https://bsky.app/profile/arathain.bsky.social
 
 [Immersive Portals](https://modrinth.com/mod/immersiveportals): Used for the infinite staircase and the security system
 
-[FancyMenu](https://modrinth.com/mod/Wq5SjeWM): Used for the opening menu
+[FancyMenu](https://modrinth.com/mod/fancymenu): Used for the opening menu
 
 # Public Mod List
 
@@ -44,7 +44,7 @@ Fabric API: https://modrinth.com/mod/P7dR8mSH
 
 Fabric Language Kotlin: https://modrinth.com/mod/Ha28R6CL
 
-FancyMenu: https://modrinth.com/mod/Wq5SjeWM
+FancyMenu: https://modrinth.com/mod/fancymenu
 
 Farmer's Delight Refabricated: https://modrinth.com/mod/farmers-delight-refabricated
 
