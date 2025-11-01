@@ -20,7 +20,7 @@ Arathain: https://bsky.app/profile/arathain.bsky.social
 
 [Illuminated](https://modrinth.com/mod/illuminated): Provided the code to make the flashlight possible while using Immersive Portals
 
-[Figura](https://modrinth.com/mod/figura): Allowed us to make the Smilie Model function
+[Figura](https://modrinth.com/mod/figura): Allowed us to make the Smiliey Model function
 
 [Immersive Portals](https://modrinth.com/mod/immersiveportals): Used for the infinite staircase and the security system
 
